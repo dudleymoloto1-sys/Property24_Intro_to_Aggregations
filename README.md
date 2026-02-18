@@ -1,0 +1,1 @@
+# Property24_Intro_to_Aggregations
